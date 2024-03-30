@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "productId": "12345",
+            "productName": "Premium Wireless Headphones",
+            "price": 129.99,
+            "category": "Electronics",
+            "inStock": true
+        },
+        {
+            "productId": "67890",
+            "productName": "Organic Green Tea",
+            "price": 9.99,
+            "category": "Groceries",
+            "inStock": true
+        },
+        {
+            "productId": "54321",
+            "productName": "Leather Crossbody Bag",
+            "price": 79.95,
+            "category": "Fashion",
+            "inStock": false
+        },
+        {
+            "productId": "24680",
+            "productName": "Smartphone Tripod Stand",
+            "price": 24.99,
+            "category": "Mobile Accessories",
+            "inStock": true
+        },
+        {
+            "productId": "13579",
+            "productName": "Reusable Stainless Steel Straws",
+            "price": 12.49,
+            "category": "Eco-Friendly",
+            "inStock": true
+        },
+        {
+            "productId": "98765",
+            "productName": "Bluetooth Portable Speaker",
+            "price": 59.99,
+            "category": "Electronics",
+            "inStock": true
+        }
+    ]
+}
